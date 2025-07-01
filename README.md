@@ -12,6 +12,7 @@ The goal? To help financial institutions flag suspicious transactions more effec
 
 * **Name:** Credit Card Fraud Detection Dataset
 * **Source:** [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* **Download Link:** [Download creditcard.csv](https://www.kaggle.com/mlg-ulb/creditcardfraud/download)
 * **Total Records:** \~284,000
 * **Features:**
 
@@ -53,7 +54,7 @@ These metrics give a well-rounded view of how well the models distinguish betwee
 
 ```
 fraud-detection-project/
-├── creditcard.csv             # Dataset (not included in repo)
+├── creditcard.csv             # Dataset (download manually)
 ├── fraud_detection.py         # Python script with full pipeline
 ├── README.md                  # You're reading it!
 ```
